@@ -57,6 +57,8 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cluster.cs" />
+    <Compile Include="ClusterCoords.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
